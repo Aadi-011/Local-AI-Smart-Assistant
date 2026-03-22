@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///home/ec-user/EasyCodeAIProjects/Local-AI-Smart-Assistant/instrumentation-client.ts"],"sourcesContent":["import posthog from 'posthog-js'\n\nposthog.init(\"phc_v1zGl740rSRNUNCouxKTzOdK31AIcRRWXNf4VMpfa4y\", {\n    api_host: \"https://us.i.posthog.com\",\n    defaults: '2025-05-24'\n});\n"],"names":[],"mappings":";AAAA;;AAEA,6JAAO,CAAC,IAAI,CAAC,mDAAmD;IAC5D,UAAU;IACV,UAAU;AACd","debugId":null}}]
+}
